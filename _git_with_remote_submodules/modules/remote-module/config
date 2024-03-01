@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../remote-module
+[remote "origin"]
+	url = git@github.com:git-commit-id/git-test-resources.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "empty-branch"]
+	remote = origin
+	merge = refs/heads/empty-branch

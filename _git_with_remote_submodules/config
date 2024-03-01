@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule "remote-module"]
+	url = git@github.com:git-commit-id/git-test-resources.git
+	active = true
