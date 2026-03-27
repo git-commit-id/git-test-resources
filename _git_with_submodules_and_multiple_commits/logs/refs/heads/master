@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 9c5d2e13d042b0acb71c48232a9c408e42da87f7 TheSnoozer <6849390+TheSnoozer@users.noreply.github.com> 1774629496 +0100	commit (initial): new repo for testing (based on git-commit-id-maven-debugging)
+9c5d2e13d042b0acb71c48232a9c408e42da87f7 8e88956d45d57725463550f4406a54d12a46ae78 TheSnoozer <6849390+TheSnoozer@users.noreply.github.com> 1774629563 +0100	commit: a change in submodule-one
+8e88956d45d57725463550f4406a54d12a46ae78 2b91f8b730121f66a833f771cb7241919fed5917 TheSnoozer <6849390+TheSnoozer@users.noreply.github.com> 1774629599 +0100	commit: a change in submodule-two
+2b91f8b730121f66a833f771cb7241919fed5917 4862e42508099d359d791269f3735baff36d9102 TheSnoozer <6849390+TheSnoozer@users.noreply.github.com> 1774629636 +0100	commit: a change in the root pom
